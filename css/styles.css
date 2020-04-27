@@ -1,0 +1,26 @@
+body
+{
+	background: #e6e6ff;
+	padding: 65px 0px 0px 0px;
+	z-index: 0;
+}
+.navbar-dark
+{
+	background: #6699ff;
+}
+.sliders
+{ 
+}
+.footer
+{
+	background: #3377ff;
+	color: floralwhite;
+}
+.footer a
+{
+	color: floralwhite;
+}
+.cyprt 
+{
+	background: #1a66ff;
+}
